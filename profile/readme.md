@@ -2,7 +2,7 @@
 ![Open Source at Metawayholdings](https://raw.githubusercontent.com/MetawayTech/.github/main/profile/tech400.png) 
 
 ## Get Involved
-The Big Things - Digital Economy Corporation
+Technology for Life
 
 
 ## 🙋‍♀️ Let's Connect
