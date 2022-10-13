@@ -1,5 +1,5 @@
 
-![Open Source at Metawayholdings](https://raw.githubusercontent.com/MetawayTech/.github/main/profile/tech400.png) 
+![Open Source at Metawayholdings](https://raw.githubusercontent.com/MetawayTech/.github/main/profile/technology-and-our-lives-800x400.png) 
 
 ## Get Involved
 Technology for Life
